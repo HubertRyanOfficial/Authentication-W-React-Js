@@ -31,3 +31,62 @@ Below are all the dependencies that were used for this project to be completed. 
 - [x] React Loader Spinner
 
 > Important: Soon, more updates will come! Always update this repository to be able to see news like Styled Components and others.
+
+# Getting Started
+
+## Install
+
+First, you need to clone this project to an ideal location on your computer. You can clone either using the github command line or by downloading directly from the browser or the WINRAR file, after that, extract it.
+
+```sh
+$ git clone https://github.com/HubertRyanOfficial/Authentication-W-React-Js.git
+```
+
+or
+
+```sh
+Download direct to you computer with WINRAR or with GitHub Desktop.
+```
+
+Second, install all necessary project dependencies locally so that the project can run smoothly. Of course, go to the project folder before that!
+
+```sh
+$ yarn install
+```
+
+or
+
+```sh
+$ npm install
+```
+
+## Run the project
+
+As I said above, you need to create a Firebase project and get the necessary settings for the database to work and not return any errors. They are in the folder `src/config/database/firebaseConfig.js` you just have to change the settings that are in the constant and nothing else!
+
+> Important: Without this configuration the application will not work!
+
+Now just run.
+
+```sh
+$ yarn start
+```
+
+or
+
+```sh
+$ npm start
+```
+
+Now we can use and develop our project, are we going to test together with me? **Let's Go!**
+
+# Thank You
+
+Thank you so much for reading this repository and seeing my code shares, a huge hug!
+Always keep learning and updating.
+
+<p align="left">
+  <img src="https://imgur.com/RIfwVLj.png" width="200" title="Hubert Ryan">
+</p>
+
+By **Hubert Ryan**
