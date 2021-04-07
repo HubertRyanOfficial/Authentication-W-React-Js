@@ -83,7 +83,7 @@ Now we can use and develop our project, are we going to test together with me? *
 # Thank You
 
 Thank you so much for reading this repository and seeing my code shares, a huge hug!
-Always keep learning and updating.
+Always keep **learning** and **updating**.
 
 <p align="left">
   <img src="https://imgur.com/RIfwVLj.png" width="200" title="Hubert Ryan">
