@@ -4,9 +4,9 @@
 
 <div align="center">
   <div style="display: flex; align-items: center; flex-direction: row;">
-    <img src="https://imgur.com/r2AfjOs.png" width="300"/>
-    <img src="https://imgur.com/jcL080d.png" width="300" style="margin-left: 10px"/>
-    <img src="https://imgur.com/SfIfr5K.png" width="300" style="margin-left: 10px"/>
+    <img src="https://imgur.com/r2AfjOs.png" width="250" style="border: 1px #ddd solid; border-radius: 10px;"/>
+    <img src="https://imgur.com/jcL080d.png" width="250" style="margin-left: 10px"/>
+    <img src="https://imgur.com/SfIfr5K.png" width="250" style="margin-left: 10px"/>
   </div>
 </div>
 
