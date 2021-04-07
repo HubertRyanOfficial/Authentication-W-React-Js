@@ -1,0 +1,52 @@
+.authContainer {
+  width: 100%;
+  height: 100vh;
+
+  background-image: linear-gradient(
+    150deg,
+    var(--white) 65%,
+    rgba(255, 51, 76, 0.6)
+  );
+
+  padding: 50px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: fixed;
+}
+
+.authLogo {
+  width: 300px;
+}
+
+.authInputsContainer {
+  margin: 50px 0px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.authInputsTitle {
+  font-size: 30px;
+  color: var(--title);
+}
+
+.authInputsSubTitle {
+  font-size: 15px;
+  color: var(--text);
+}
+
+.authInputsSubTitle button {
+  color: var(--green);
+  text-decoration: underline;
+  border: 0px;
+  background-color: var(--white);
+}
+
+.loadingAuthContainer {
+  margin-top: 20px;
+}

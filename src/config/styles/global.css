@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+}
+
+.imgBackground {
+  position: absolute;
+  top: -300px;
+  left: -500px;
+}
+
+:root {
+  --white: #fff;
+  --background: #f2f3f5;
+  --gray-line: #ddd;
+  --text: #bbb;
+  --gray-inputs: #bbb;
+  --gray-title: #bbb;
+  --title: #4e4e4e;
+  --red: #ff334c;
+  --green: #1b998b;
+  --orange: #f46036;
+}

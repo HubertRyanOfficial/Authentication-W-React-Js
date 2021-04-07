@@ -1,0 +1,7 @@
+.inputAuthContainer {
+  margin-top: 20px;
+  padding: 12px 30px;
+  border: 1px var(--gray-inputs) solid;
+
+  font-size: 18px;
+}

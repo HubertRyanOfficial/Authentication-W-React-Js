@@ -1,0 +1,10 @@
+.buttonAuthContainer {
+  margin-top: 30px;
+  padding: 10px 30px;
+  border: 0px;
+  background-color: var(--red);
+  color: var(--white);
+
+  font-size: 15px;
+  font-weight: bold;
+}
