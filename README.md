@@ -12,4 +12,12 @@
 
 # Authentication W/ReactJs
 
-In this project you will have a authentication, you can connect using auth with standard email and password, simulating a user login to be able to show your data like e-mail, full name and random motivational phrases, and you can change your profile picture for your account. Everything with Firebase Auth, Firestore and Storage.
+In this project you will have a simple **authentication**, you can connect using auth with standard email and password, simulating a user login to be able to show your data like e-mail, full name and random motivational phrases, and you can change your profile picture for your account. Everything with Firebase Auth, Firestore and Storage. **by Hubert Ryan!**
+
+## About
+
+With React Js, using the React Router Dom to send to others pages, navigating to other pages of the application and checking the user's status, whether connected or not.
+
+The project depends on a google config of Firebase Auth Config Web, this configuration comes in the creation of a Firebase project, you can acquire it, below I will explain where to put this data for Firebase to know in which database the application is connected.
+
+This layout design was completely developed from scratch to be a realistic and original application for anyone who is going to clone and use it.
