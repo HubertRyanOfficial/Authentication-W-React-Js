@@ -11,3 +11,5 @@
 </div>
 
 # Authentication W/ReactJs
+
+In this project you will have a authentication, you can connect using auth with standard email and password, simulating a user login to be able to show your data like e-mail, full name and random motivational phrases, and you can change your profile picture for your account. Everything with Firebase Auth, Firestore and Storage.
